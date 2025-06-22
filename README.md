@@ -56,7 +56,7 @@ Tela Inicial:
 
 ![Tela de Geração](https://github.com/ThiagoRibeiro16/surpresinha/blob/main/telas/geracao.png)
 
-![Tela Fim](https://github.com/ThiagoRibeiro16/surpresinha/blob/main/telas/final.pn)
+![Tela Fim](https://github.com/ThiagoRibeiro16/surpresinha/blob/main/telas/final.png)
 
 ## _Download_
 

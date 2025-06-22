@@ -52,11 +52,11 @@ Obrigado por usar o Surpresinha! Até mais!
 
 Tela Inicial: 
 
-![Tela do Inicial](/Surpresinha/telas/inicial.png)
+![Tela do Inicial](/surpresinha/telas/inicial.png)
 
-![Tela de Geração](/Surpresinha/telas/geracao.png)
+![Tela de Geração](/surpresinha/telas/geracao.png)
 
-![Tela Fim](/Surpresinha/telas/final.png)
+![Tela Fim](/surpresinha/telas/final.png)
 
 ## _Download_
 
